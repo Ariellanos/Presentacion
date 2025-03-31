@@ -1,6 +1,6 @@
 # Ariel Llanos
 
-![Este soy yo](./img/yo.jpg)
+![Este soy yo](./yo.jpg)
 
  ## *Datos personales*
 - Nombre: Ariel 
