@@ -6,7 +6,7 @@
 - Nombre: Ariel 
 - Apellido: Llanos
 - Fecha de nacimiento: 16/10/2000
-- Edad: 22 Años
+- Edad: 24 Años
 - Nacionalidad: Argentino
 - Estado civil: Soltero
 - Residencia: Jose C. Paz
@@ -23,5 +23,4 @@
 ## *Pasatiempos Preferidos*
 - Hacer ejercicio
 - Jugar videojuegos
-- Jugar paddel 
 - Escuchar musica
